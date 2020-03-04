@@ -1,2 +1,3 @@
 # spingcloudTest
-spingcloudTest
+说明
+如果没使用apollo的话，直接将gateway下profile中的config.txt文件覆盖到application.yml中即可
